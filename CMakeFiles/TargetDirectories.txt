@@ -1,0 +1,7 @@
+/home/muhamad/Documents/muhammad/Projects/HelloWorld/CMakeFiles/install.dir
+/home/muhamad/Documents/muhammad/Projects/HelloWorld/CMakeFiles/list_install_components.dir
+/home/muhamad/Documents/muhammad/Projects/HelloWorld/CMakeFiles/rebuild_cache.dir
+/home/muhamad/Documents/muhammad/Projects/HelloWorld/CMakeFiles/com.github.mo3r99.hello-world.dir
+/home/muhamad/Documents/muhammad/Projects/HelloWorld/CMakeFiles/install/strip.dir
+/home/muhamad/Documents/muhammad/Projects/HelloWorld/CMakeFiles/install/local.dir
+/home/muhamad/Documents/muhammad/Projects/HelloWorld/CMakeFiles/edit_cache.dir
